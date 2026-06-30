@@ -1,4 +1,4 @@
-# NoGMesh
+# Nation of Gondwana Meshtastic
 Inoffizieller Meshtastic Kanal für die Nation of Gondwana 2026
 # NoGMesh – Meshtastic auf der Nation of Gondwana
 
@@ -49,7 +49,7 @@ Taschen-Nodes in Rucksack oder Hosentasche sind meist schlechte Weiterleiter. Gu
 
 ## Node vor Ort
 
-Es wird ein gut platzierter Node auf dem Campingplatz bereitgestellt.
+Es wird ein gut platzierter Node auf dem Campingplatz geben.
 
 * Außenantenne ca. 3 m über Boden
 * Akkubetrieb
@@ -58,11 +58,7 @@ Es wird ein gut platzierter Node auf dem Campingplatz bereitgestellt.
 
 ## Kurzregeln
 
-* kurze Nachrichten
-* keine Dauertests
-* keine Chat-Flut
-* keine unnötigen Standortupdates
-* Standort bewusst teilen
+* Standort nur in Privaten Chats teilen
 * kein MQTT
 * Hop Limit 3
 * Taschen-Nodes möglichst Client Mute
