@@ -42,7 +42,7 @@ Der Schlüssel `AQ==` ist öffentlich. Die Kanäle sind nicht privat.
 | -------------------------------- | ----------------------- |
 | Taschen-Node                     | Client Mute             |
 | Handgerät zum aktiven Testen     | Client                  |
-| Camp-/Bus-Node mit guter Antenne | Client oder Client Base |
+| Camp-Node mit guter Antenne      | Client oder Client Base |
 | Router                           | bitte nicht             |
 
 Taschen-Nodes in Rucksack oder Hosentasche sind meist schlechte Weiterleiter. Gut platzierte Nodes mit Außenantenne sind dafür besser geeignet.
