@@ -12,7 +12,7 @@ QR-Code scannen oder Channel-Link öffnen:
 
 ![NoGMesh QR-Code](qr/nogmesh.png)
 
-[NoGMesh Channel-Link öffnen](HIER_LINK_EINFÜGEN)
+[NoGMesh Channel-Link öffnen]( https://meshtastic.org/e/?add=true#CgwSAQEaB05vR01lc2gKCRIBARoEVGVzdAoLEgEBGgZXZXR0ZXISFggBGPoBIAsoBTgDQAdIAVAbaAHABgE )
 
 ## Funk-Einstellungen
 
