@@ -1,8 +1,6 @@
-# Nation of Gondwana Meshtastic
+# Nation of Gondwana Meshtastic 2026
 Inoffizieller Meshtastic Kanal für die Nation of Gondwana 2026
 
-
-Inoffizielles Meshtastic Kanal Set für Besucher*innen der Nation of Gondwana.
 
 Kein offizieller Kanal der Veranstalter. Kein Ersatz für Security, Sanitätsdienst, Feuerwehr, Notruf oder Festivalpersonal.
 
