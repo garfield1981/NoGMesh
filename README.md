@@ -49,7 +49,7 @@ Taschen-Nodes in Rucksack oder Hosentasche sind meist schlechte Weiterleiter. Gu
 
 ## Node vor Ort
 
-Es wird ein gut platzierter Node auf dem Campingplatz geben.
+Es wird einen gut platzierten Node auf dem Campingplatz geben.
 
 * Außenantenne ca. 3 m über Boden
 * Akkubetrieb
