@@ -33,7 +33,9 @@ Der Schlüssel `AQ==` ist öffentlich. Die Kanäle sind nicht privat.
 | Wetter  | Wetterhinweise vor Ort |
 
 **NoGMesh** bitte für normale Nachrichten nutzen.
+
 **Test** bitte nur zum Testen.
+
 **Wetter** ist inoffiziell und ersetzt keine Wetterwarnung.
 
 ## Rollen
