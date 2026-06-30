@@ -10,7 +10,7 @@ Kein offizieller Kanal der Veranstalter. Kein Ersatz für Security, Sanitätsdie
 
 QR-Code scannen oder Channel-Link öffnen:
 
-![NoGMesh QR-Code](qr/nogmesh.png)
+![NoGMesh QR-Code](NoG.jpg)
 
 [NoGMesh Channel-Link öffnen]( https://meshtastic.org/e/?add=true#CgwSAQEaB05vR01lc2gKCRIBARoEVGVzdAoLEgEBGgZXZXR0ZXISFggBGPoBIAsoBTgDQAdIAVAbaAHABgE )
 
