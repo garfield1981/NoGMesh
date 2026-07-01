@@ -8,7 +8,7 @@ Kein offizieller Kanal der Veranstalter. Kein Ersatz für Security, Sanitätsdie
 
 Fragen, Tests, Absprachen:
 
-[NoGMesh Telegram](t.me/NoGMesh)
+[NoGMesh Telegram](https://t.me/NoGMesh)
 
 
 ## Mitmachen
