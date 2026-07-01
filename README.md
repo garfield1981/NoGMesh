@@ -4,6 +4,13 @@ Inoffizieller Meshtastic Kanal für die Nation of Gondwana 2026
 
 Kein offizieller Kanal der Veranstalter. Kein Ersatz für Security, Sanitätsdienst, Feuerwehr, Notruf oder Festivalpersonal.
 
+## Telegram
+
+Fragen, Tests, Absprachen:
+
+[NoGMesh Telegram](t.me/NoGMesh)
+
+
 ## Mitmachen
 
 QR-Code scannen oder Channel-Link öffnen:
